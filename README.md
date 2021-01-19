@@ -8,4 +8,4 @@ Repo of Machine Learning and Data Science Events
 
 ## Online 
 
-- [Abuja Women in Machine Learning and Data Science](https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/events/275631062)
+- 23rd January 2021 [Abuja Women in Machine Learning and Data Science](https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/events/275631062)
