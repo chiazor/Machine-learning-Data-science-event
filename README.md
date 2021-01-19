@@ -1,2 +1,2 @@
-# Machine-learning-Data-science-event
+# Machine-learning-Data-science-Event
 Repo of Machine Learning and Data Science Events 
