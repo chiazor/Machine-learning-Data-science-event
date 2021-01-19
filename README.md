@@ -1,5 +1,5 @@
 # Machine Learning & Data Science Events
-Repo of Machine Learning and Data Science Events 
+List of Machine Learning and Data Science Events 
 
 # 2021
 # January
