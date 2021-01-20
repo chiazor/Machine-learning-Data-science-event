@@ -8,4 +8,5 @@ List of Machine Learning and Data Science Events
 
 ## Online 
 - 20th January 2021 [AI for Good Meetup](https://www.meetup.com/meetup-group-pzvZdizC/events/275766374/)
+- 21st January 2021 [Remote ML Paper Club](https://www.meetup.com/ML-Paper-Club/events/krwlsrycccbcc/)
 - 23rd January 2021 [Abuja Women in Machine Learning and Data Science](https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/events/275631062)
