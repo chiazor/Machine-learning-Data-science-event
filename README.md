@@ -18,6 +18,6 @@ List of Machine Learning and Data Science Events
 
 
 ## Febuary
-. [Online](https://github.com/chiazor/Machine-learning-Data-science-event#Online)
+• [Online]
 
 - 1st Febuary 2021 [AI for Good Meetup - Data to Combat Domestic Abuse and Violence](https://www.meetup.com/meetup-group-pzvZdizC/events/275862628/)
