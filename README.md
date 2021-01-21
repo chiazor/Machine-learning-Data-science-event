@@ -15,3 +15,9 @@ List of Machine Learning and Data Science Events
 - 23rd January 2021 [The Naive Bayesians: S2 Ep 4: Disease Detection](https://www.meetup.com/The-Naive-Bayesians/events/275361736/)
 - 26th January 2021 [Tech Tag- London: Computer vision: The Eyes of Technology](https://www.meetup.com/Tech-Tag-London/events/275643268/) 
 - 28th january 2021 [Webinar “How to Manage ML at scale in CPG”](https://www.meetup.com/London-AI-x-ODSC/events/275687067/)
+
+
+## Febuary
+. [Online](https://github.com/chiazor/Machine-learning-Data-science-event#Online)
+
+- 1st Febuary 2021 [AI for Good Meetup - Data to Combat Domestic Abuse and Violence](https://www.meetup.com/meetup-group-pzvZdizC/events/275862628/)
