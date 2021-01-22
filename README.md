@@ -14,8 +14,8 @@ List of Machine Learning and Data Science Events
 - 23rd January 2021 [Abuja Women in Machine Learning and Data Science](https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/events/275631062)
 - 23rd January 2021 [The Naive Bayesians: S2 Ep 4: Disease Detection](https://www.meetup.com/The-Naive-Bayesians/events/275361736/)
 - 26th January 2021 [Tech Tag- London: Computer vision: The Eyes of Technology](https://www.meetup.com/Tech-Tag-London/events/275643268/) 
-- 28th january 2021 [Webinar “How to Manage ML at scale in CPG”](https://www.meetup.com/London-AI-x-ODSC/events/275687067/)
-
+- 28th January 2021 [Webinar “How to Manage ML at scale in CPG”](https://www.meetup.com/London-AI-x-ODSC/events/275687067/)
+- 28th January 2021 [Live Webinar: Intro to Sphinx for Python Documentation](https://www.meetup.com/data-umbrella/events/275518677/)
 
 ## Febuary
 • Online
