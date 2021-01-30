@@ -16,6 +16,7 @@ List of Machine Learning and Data Science Events
 - 26th January 2021 [Tech Tag- London: Computer vision: The Eyes of Technology](https://www.meetup.com/Tech-Tag-London/events/275643268/) 
 - 28th January 2021 [Webinar “How to Manage ML at scale in CPG”](https://www.meetup.com/London-AI-x-ODSC/events/275687067/)
 - 28th January 2021 [Live Webinar: Intro to Sphinx for Python Documentation](https://www.meetup.com/data-umbrella/events/275518677/)
+- 30th January 2021 [AI Saturday - How to navigate the AI Universe by Luis Serrano](https://t.co/pWYhVCba3R?amp=1)
 
 ## Febuary
 • Online
