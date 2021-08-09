@@ -2,6 +2,9 @@
 List of Machine Learning and Data Science Events 
 
 # 2021
+# August
+
+- 28th August 2021 [Feature Engineering: Extracting features from your data] (https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/events/279710607/)
 # January
 
 • [Online](https://github.com/chiazor/Machine-learning-Data-science-event#Online)
