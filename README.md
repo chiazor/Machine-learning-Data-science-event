@@ -2,6 +2,9 @@
 List of Machine Learning and Data Science Events 
 
 # 2021
+# November
+- 25th Novemebr 2021 [Remote ML Paper Club](https://www.meetup.com/ML-Paper-Club/events/krwlsryccpbhc/)
+
 # August
 
 - 28th August 2021 [Feature Engineering: Extracting features from your data](https://www.meetup.com/Abuja-Women-in-Machine-Learning-and-Data-Science/events/279710607/)
